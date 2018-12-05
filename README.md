@@ -2,6 +2,6 @@
 
 for exact recovery of low-rank matrices  
 
-original paper [here](http://yima.csl.illinois.edu/psfile/Lin09-MP.pdf)
+original paper [here](https://arxiv.org/abs/1009.5055)
 
 example in the code, run 'Recommender_exer.py'
